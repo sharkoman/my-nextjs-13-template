@@ -28,8 +28,8 @@ npm run check-types ||
 )
 
 # If everything passes... Now we can commit
-echo '🤔🤔🤔🤔... Alright.... Code looks good to me... Trying to build now. 🤔🤔🤔🤔'
-
+# echo '🤔🤔🤔🤔... Alright.... Code looks good to me... Trying to build now. 🤔🤔🤔🤔'
+echo '✅✅✅✅ You win this time... I am committing this now. ✅✅✅✅'
 # npm run build ||
 # (
 #     echo '❌👷🔨❌ Better call Bob... Because your build failed ❌👷🔨❌
@@ -39,4 +39,4 @@ echo '🤔🤔🤔🤔... Alright.... Code looks good to me... Trying to build n
 # )
 
 # If everything passes... Now we can commit
-echo '✅✅✅✅ You win this time... I am committing this now. ✅✅✅✅'
+# echo '✅✅✅✅ You win this time... I am committing this now. ✅✅✅✅'
