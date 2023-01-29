@@ -10,3 +10,5 @@ npm run build ||
     '
     false;
 )
+
+echo '✅✅✅✅ Everything is Great 💖... I am pushing this to the server now. ✅✅✅✅'
