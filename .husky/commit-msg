@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+npx --no -- commitlint --edit ${1} || (
+	echo '❌👷🔨❌ Your commit message is invalid. Please write commit message with our standards ❌👷🔨❌'
+	false;
+)
